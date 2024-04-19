@@ -1,0 +1,4 @@
+/gemma-sql
+/mistral-sql
+.env
+__pycache__
