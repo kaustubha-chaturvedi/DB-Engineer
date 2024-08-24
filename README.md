@@ -34,6 +34,6 @@ I also have implemented a Mistral and Gemma API to interpret natural language qu
    streamlit run main.py
    ```
 
-## Demo Video
+## Demo
 
-[![Demo Video](demo.webm)](demo.webm)
+[![Demo](demo.gif)](demo.gif)
